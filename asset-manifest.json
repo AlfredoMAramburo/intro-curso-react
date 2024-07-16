@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/intro-curso-react/static/css/main.9e962794.css",
+    "main.js": "/intro-curso-react/static/js/main.dff1b569.js",
+    "static/media/platzi.webp": "/intro-curso-react/static/media/platzi.5b31ce99c22184cfdc82.webp",
+    "index.html": "/intro-curso-react/index.html",
+    "main.9e962794.css.map": "/intro-curso-react/static/css/main.9e962794.css.map",
+    "main.dff1b569.js.map": "/intro-curso-react/static/js/main.dff1b569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e962794.css",
+    "static/js/main.dff1b569.js"
+  ]
+}
