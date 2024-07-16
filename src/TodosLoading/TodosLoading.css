@@ -1,0 +1,16 @@
+.loading-spinner {
+    border: 8px solid rgba(0, 0, 0, 0.1); /* Gris claro y translúcido */
+    border-top: 8px solid #141e30; /* Azul */
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1.5s ease-in-out infinite;
+    margin: 20px auto; /* Centro el spinner con un margen de 20px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
